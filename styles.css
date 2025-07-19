@@ -1688,12 +1688,7 @@ body.dark-mode {
     font-size: 34px;
     line-height: 40px;
   }
-.project-section{
-  display:flex;
-  justify-content: center;
-  align-items: center;
 
-}
   .hero-section-description {
     font-size: 1.2em;
     padding: 0 1rem;
