@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PARALLAX EFFECT",
+			"path": "../../csslevel2/gradient/shadows/dimension/transform/flexbox/positions/PARALLAX EFFECT"
+		},
+		{
+			"name": "portfolioWeb",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
